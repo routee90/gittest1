@@ -17,6 +17,10 @@
           <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
           <LI>Lecture 1.</LI>
+<<<<<<< HEAD
+=======
+          <LI>Student 1.</LI>
+>>>>>>> 299f6db3559b15e226e0df5fbf0579c024b386ae
       </OL>
   </DIV> 
 </body>
