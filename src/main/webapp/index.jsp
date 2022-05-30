@@ -23,6 +23,7 @@
           <LI>user2 conflict 실습</LI>
           <LI>오늘은 야근이다.오늘 usecase 등록해야함.</LI> 
 		  <LI>테스트테스트</LI>
+          <LI>오늘 usecase 등록해야함, 너무 어렵게 제작하지 말것.</LI> 
       </OL>
   </DIV> 
 </body>
