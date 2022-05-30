@@ -13,15 +13,15 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>첫번째 변경 진행함.</LI>
-          <LI>첫번째 변경 후 커밋 안함.</LI>
-          <LI>두번째 변경 진행함.</LI>
           <LI>user1 실습 1</LI>
           <LI>user1 실습 2</LI>
           <LI>user1 실습 3</LI>
           <LI>user1 conflict 실습</LI> 
           <LI>user2 conflict 실습</LI>
           <LI>Logoff 가능</LI> 
+          <LI>오늘은 야근이다.오늘 usecase 등록해야함.</LI> 
+		  <LI>테스트테스트</LI>
+          <LI>오늘 usecase 등록해야함, 너무 어렵게 제작하지 말것.</LI> 
       </OL>
   </DIV> 
 </body>
