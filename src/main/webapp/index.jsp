@@ -21,7 +21,7 @@
           <LI>user1 실습 3</LI>
           <LI>user1 conflict 실습</LI> 
           <LI>user2 conflict 실습</LI>
-          <LI>오늘 usecase 등록해야함, 너무 어렵게 제작하지 말것.</LI> 
+          <LI>Logoff 가능</LI> 
       </OL>
   </DIV> 
 </body>
